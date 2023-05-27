@@ -37,8 +37,8 @@ The steps performed for Task 2 were as follows:
 
 This GitHub repository contains the following files and folders related to the internship project:
 
-- `task1`: This folder contains the code and files related to Task 1 (sentiment analysis of customer reviews).
-- `task2`: This folder contains the code and files related to Task 2 (customer buying behavior prediction).
-- `powerpoint_task1.pptx`: PowerPoint presentation summarizing the insights and analysis for Task 1.
-- `powerpoint_task2.pptx`: PowerPoint presentation summarizing the insights and analysis for Task 2.
+- `British Airways Task 1`: This folder contains the code and files related to Task 1 (sentiment analysis of customer reviews).
+- `British Airways Task 2`: This folder contains the code and files related to Task 2 (customer buying behavior prediction).
+- `Presentation Template - Task 1_ Aditi Kathalay`: PowerPoint presentation summarizing the insights and analysis for Task 1.
+- `Presentation Template - Task 2_ Aditi Kathalay`: PowerPoint presentation summarizing the insights and analysis for Task 2.
 
